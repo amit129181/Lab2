@@ -1,4 +1,4 @@
 Landscape
 ![screenshot of tablet](tablet.png)
 Challenge
-![screenshot of tablet](challenge.png)
+![screenshot of phone](challenge.png)
