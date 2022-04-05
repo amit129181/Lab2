@@ -1,6 +1,5 @@
-![screenshort](portrait.png)
+![screenshort](ss.png)
 ![screenshort_landscape](landscape.png)
-GIF
-![gif](vd.gif)
+
 Tablet Variation
-![image](tab.png)
+![image](tablet.png)
